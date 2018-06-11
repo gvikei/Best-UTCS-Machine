@@ -15,4 +15,5 @@ A utility to find the best lab machine with lowest load time and number of curre
      
 
 ## How to run:
-    ![How to run](https://raw.githubusercontent.com/gvikei/Best-UTCS-Machine/master/2018-06-10%2017.55.24.gif?token=AEhFCta2mm39BlXHezU7wUkqozwxmAZHks5bJwVSwA%3D%3D)
+    
+   ![How to run](https://raw.githubusercontent.com/gvikei/Best-UTCS-Machine/master/howto.gif)
